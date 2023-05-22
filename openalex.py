@@ -7,8 +7,6 @@ import requests, json
 
 import pandas as pd
 
-import warnings
-warnings.filterwarnings('ignore')
 
 #Get the research industry you are looking into and # of works to lookup
 keyword_search = input("keyword: ").lower()
