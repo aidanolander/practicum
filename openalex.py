@@ -3,8 +3,6 @@
 ## Needed Imports
 from pyalex import Works, Authors, Sources, Institutions, Concepts, Publishers
 
-import requests, json
-
 import pandas as pd
 
 
